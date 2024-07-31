@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rajanya Chakraborty</h1>
 <h3 align="center">A passionate upcoming software developer from Kolkatta,India</h3>
 
-<div class="tenor-gif-embed" data-postid="13247664" data-share-method="host" data-aspect-ratio="1.11321" data-width="100%"><a href="https://tenor.com/view/new-game-ahagon-umiko-programming-work-working-at-work-gif-13247664">New Game Ahagon Umiko Programming GIF</a>from <a href="https://tenor.com/search/new+game+ahagon+umiko-gifs">New Game Ahagon Umiko GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanya2934&label=Profile%20views&color=0e75b6&style=flat" alt="rajanya2934" /> </p>
 
