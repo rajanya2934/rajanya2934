@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rajanya Chakraborty</h1>
 <h3 align="center">A passionate upcoming software developer from Kolkatta,India</h3>
-<h1 align="right"></h1>
+<div align="right">
+    <p></p>
+   <p></p> 
+  <p></p> 
+  <p></p>
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajanya2934&label=Profile%20views&color=0e75b6&style=flat" alt="rajanya2934" /> </p>
